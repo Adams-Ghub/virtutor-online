@@ -26,12 +26,11 @@ module.exports = {
         inter: ["var(--font-inter)"],
         spaceGrotesk: ["var(--font-spaceGrotesk)"],
       },
-      
+
       screens: {
         xs: "420px",
       },
-      
     },
   },
-  plugins: [require("tailwindcss-animate")],
+  plugins: [],
 };
