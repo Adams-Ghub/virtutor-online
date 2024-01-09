@@ -4,11 +4,11 @@ import { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "DevFlow",
+  title: "Virtutor Online",
   description:
-    "Explore DevFlow, a powerful and intuitive Q&A platform for developers, crafted with Next.js. Dive into a community-driven space where developers share knowledge, collaborate on projects, and find solutions to coding challenges. Join the flow, ask questions, and contribute to the ever-growing pool of insights at DevFlow – your go-to hub for seamless development experiences.",
+    "VirTutor Online is a platform for tutoring excellence; a place where students connect with the finest tutors and lecturers to enhance their academic performance.",
   icons: {
-    icon: "/assets/images/site-logo.svg",
+    icon: "/assets/icons/jio.webp",
   },
 };
 
